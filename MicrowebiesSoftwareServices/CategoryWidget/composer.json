@@ -1,0 +1,17 @@
+{
+    "name": "microwebies_software_services/categorywidget",
+    "description": "Allow your Customers to show Categories on any page in Magento 2, Using the Widgets.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MicrowebiesSoftwareServices\\CategoryWidget\\": ""
+        }
+    }
+}
